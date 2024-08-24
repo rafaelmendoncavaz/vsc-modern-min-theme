@@ -1,0 +1,21 @@
+{
+  "name": "rmv-min-theme",
+  "displayName": "RMV Min Theme",
+  "description": "A dark minimal theme with better syntax highlighting",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "RMV",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RMV-color-theme.json"
+      }
+    ]
+  }
+}
