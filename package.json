@@ -1,8 +1,24 @@
 {
   "name": "rmv-min-theme",
-  "displayName": "RMV Min Theme",
-  "description": "A dark minimal theme with better syntax highlighting",
+  "displayName": "RMV Min IntelliJ IDEA Theme",
+  "description": "A dark minimal theme inspired by IDE IntelliJ IDEA",
   "version": "1.0.0",
+  "publisher": "RMVCoder",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafaelmendoncavaz/vsc-modern-min-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "min theme",
+    "intellij theme",
+    "rmv",
+    "modern",
+    "dark",
+    "minimal",
+    "intellij"
+  ],
   "engines": {
     "vscode": "^1.92.0"
   },
