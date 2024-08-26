@@ -211,11 +211,10 @@
 			"scope": [
 				"meta.function-call",
 				"meta.instance.constructor",
-				"entity.other.attribute-name",
 				"entity.name.function",
 				"constant.keyword.clojure",
 				"constant.language.boolean",
-				"constant.language.json.comments"
+				"constant.language.json"
 			],
 			"settings": {
 				"foreground": "#6cb2fd"
@@ -252,7 +251,8 @@
 		{
 			"scope": [
 				"entity.name.tag",
-				"keyword.control"
+				"keyword.control",
+				"support.class.component"
 			],
 			"settings": {
 				"foreground": "#fc5a5a"
