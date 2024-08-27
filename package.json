@@ -4,7 +4,7 @@
   "description": "A dark minimal theme inspired by IDE IntelliJ IDEA",
   "version": "1.0.3",
   "publisher": "RMVCoder",
-  "icon": "./intellij-idea_logo_300x300.png",
+  "icon": "intellij-idea_logo_300x300.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/rafaelmendoncavaz/vsc-modern-min-theme"
