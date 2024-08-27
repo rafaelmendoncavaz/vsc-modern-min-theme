@@ -8,7 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Released]
 
-### v1.0.1
+### v1.0.2
 - Fixed minor inconsistencies with component highlighting and json values.
 
 ### v1.0.0

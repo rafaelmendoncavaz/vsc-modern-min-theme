@@ -2,7 +2,7 @@
 
 ## A VSCode Theme inspired by JetBrain's IDE Intellij IDEA
 
-CurrentVer: _1.0.0_
+CurrentVer: _1.0.2_
 
 ![](./momin_dark.png)
 
