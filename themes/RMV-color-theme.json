@@ -182,7 +182,8 @@
 				"entity.name.function.clojure",
 				"support.function.node",
 				"punctuation.separator.key-value",
-				"punctuation.definition.template-expression"
+				"punctuation.definition.template-expression",
+				"support.type.primitive.prisma"
 			],
 			"settings": {
 				"foreground": "#f5a05b"
@@ -229,7 +230,8 @@
 				"variable.other.constant",
 				"meta.property-name",
 				"string.other.link.title.markdown",
-				"entity.name.type"
+				"entity.name.type",
+				"variable.language.relations.prisma"
 			],
 			"settings": {
 				"foreground": "#f580d7"
@@ -297,7 +299,8 @@
 				"punctuation.definition.binding-pattern.object",
 				"punctuation.accessor",
 				"meta.var.expr",
-				"meta.block"
+				"meta.block",
+				"source.python"
 			],
 			"settings": {
 				"foreground": "#e4e4e7"
