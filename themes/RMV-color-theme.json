@@ -37,13 +37,13 @@
 		"panelTitle.activeForeground": "#FAFAFA",
 		"panelTitle.inactiveForeground": "#484848",
 		"peekView.border": "#444",
-		"peekViewEditor.background": "#242424",
+		"peekViewEditor.background": "#1f1e25",
 		"pickerGroup.border": "#363636",
 		"pickerGroup.foreground": "#EAEAEA",
 		"progressBar.background": "#FAFAFA",
 		"scrollbar.shadow": "#1f1e25",
 		"sideBar.background": "#2c2b32",
-		"sideBarSectionHeader.background": "#202020",
+		"sideBarSectionHeader.background": "#1f1e25",
 		"statusBar.background": "#2c2b32",
 		"statusBar.debuggingBackground": "#2c2b32",
 		"statusBar.foreground": "#7E7E7E",
@@ -170,6 +170,7 @@
 				"entity.name.tag.yaml",
 				"entity.other.attribute-name",
 				"variable.object.property",
+				"variable.other.property.go",
 				"meta.object-literal.key"
 			],
 			"settings": {
@@ -236,7 +237,8 @@
 				"meta.property-name",
 				"string.other.link.title.markdown",
 				"entity.name.type",
-				"variable.language.relations.prisma"
+				"variable.language.relations.prisma",
+				"variable.prop.css"
 			],
 			"settings": {
 				"foreground": "#f580d7"
