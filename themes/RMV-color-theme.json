@@ -98,6 +98,15 @@
 		},
 		{
 			"scope": [
+				"meta.attribute.python",
+				"support.function.builtin.python"
+			],
+			"settings": {
+				"foreground": "#b392f0"
+			}
+		},
+		{
+			"scope": [
 				"support.function",
 				"keyword.operator.accessor",
 				"meta.group.braces.round.function.arguments",
@@ -171,7 +180,8 @@
 				"entity.other.attribute-name",
 				"variable.object.property",
 				"variable.other.property.go",
-				"meta.object-literal.key"
+				"meta.object-literal.key",
+				"meta.indexed-name.python"
 			],
 			"settings": {
 				"foreground": "#06d6d6"
@@ -209,6 +219,7 @@
 				"entity.other.inherited-class",
 				"variable.other",
 				"support",
+				"constant.character.format.placeholder.other.python"
 			],
 			"settings": {
 				"foreground": "#e4e4e7"
@@ -221,7 +232,8 @@
 				"entity.name.function",
 				"constant.keyword.clojure",
 				"constant.language.boolean",
-				"constant.language.json"
+				"constant.language.json",
+				"support.class.component"
 			],
 			"settings": {
 				"foreground": "#6cb2fd"
@@ -238,7 +250,8 @@
 				"string.other.link.title.markdown",
 				"entity.name.type",
 				"variable.language.relations.prisma",
-				"variable.prop.css"
+				"variable.prop.css",
+				"support.type.python"
 			],
 			"settings": {
 				"foreground": "#f580d7"
@@ -260,10 +273,19 @@
 		{
 			"scope": [
 				"entity.name.tag",
-				"support.class.component"
+				"variable.parameter.function-call.python",
 			],
 			"settings": {
 				"foreground": "#fc5a5a"
+			}
+		},
+		{
+			"scope": [
+				"entity.name.function.decorator.python",
+				"punctuation.definition.decorator.python"
+			],
+			"settings": {
+				"foreground": "#c2bf23"
 			}
 		},
 		{

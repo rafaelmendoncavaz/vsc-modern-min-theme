@@ -2,7 +2,7 @@
 
 ## A VSCode Theme inspired by JetBrain's IDE Intellij IDEA
 
-CurrentVer: _1.0.6_
+CurrentVer: _1.0.7_
 
 ## Description
 

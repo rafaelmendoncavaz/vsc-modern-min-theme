@@ -8,15 +8,19 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Released]
 
+### v1.0.7
+- Add more support to python
+- Fix component highlighting in React
+
 ### v1.0.6
-- Added more similarity with overall IDEA default color theme.
-- Removed Red color from "keyword.control" in order to clear some of the color pollution.
+- Add more similarity with overall IDEA default color theme.
+- Remove Red color from "keyword.control" in order to clear some of the color pollution.
 
 ### v1.0.5
-- Added compatibility with some Python/Go/Prisma syntax highlighting.
+- Adde compatibility with some Python/Go/Prisma syntax highlighting.
 
 ### v1.0.2
-- Fixed minor inconsistencies with component highlighting and json values.
+- Fix minor inconsistencies with component highlighting and json values.
 
 ### v1.0.0
 - Initial release
