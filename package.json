@@ -2,7 +2,7 @@
   "name": "rmv-min-theme",
   "displayName": "JetBrains IntelliJ IDEA Theme",
   "description": "A dark minimal theme inspired by IDE IntelliJ IDEA",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "publisher": "RMVCoder",
   "icon": "intellij-idea_logo_300x300.png",
   "repository": {
