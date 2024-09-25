@@ -1,7 +1,7 @@
 {
-  "name": "rmv-min-theme",
-  "displayName": "JetBrains IntelliJ IDEA Theme",
-  "description": "A dark minimal theme inspired by IDE IntelliJ IDEA",
+  "name": "jetbrains-intellij-idea-inspired-theme",
+  "displayName": "JetBrains IntelliJ IDEA Inspired Theme",
+  "description": "Theme developed with inspiration from JetBrains's IDE IntelliJ IDEA",
   "version": "1.0.7",
   "publisher": "RMVCoder",
   "icon": "intellij-idea_logo_300x300.png",
@@ -29,9 +29,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "RMV",
+        "label": "IntelliJ IDEA",
         "uiTheme": "vs-dark",
-        "path": "./themes/RMV-color-theme.json"
+        "path": "./themes/intellij-idea.json"
       }
     ]
   }
