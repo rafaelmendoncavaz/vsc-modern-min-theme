@@ -1,24 +1,26 @@
 {
   "name": "rmv-min-theme",
-  "displayName": "JetBrains IntelliJ IDEA Theme",
-  "description": "Theme developed with inspiration from JetBrains's IDE IntelliJ IDEA",
+  "displayName": "Brainstorm Theme",
+  "description": "Brainstorm Dark Theme for VSCode.",
   "version": "1.0.10",
   "publisher": "RMVCoder",
-  "icon": "intellij-idea_logo_300x300.png",
+  "icon": "logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/rafaelmendoncavaz/vsc-modern-min-theme"
   },
   "keywords": [
+    "brainstorm",
+    "brain",
+    "storm",
+    "brainstorm theme",
     "theme",
     "dark theme",
     "min theme",
-    "intellij theme",
     "rmv",
     "modern",
     "dark",
-    "minimal",
-    "intellij"
+    "minimal"
   ],
   "engines": {
     "vscode": "^1.92.0"
@@ -29,9 +31,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "IntelliJ IDEA",
+        "label": "Brainstorm",
         "uiTheme": "vs-dark",
-        "path": "./themes/intellij-idea.json"
+        "path": "./themes/brainstorm.json"
       }
     ]
   }

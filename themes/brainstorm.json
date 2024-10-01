@@ -1,5 +1,5 @@
 {
-	"name": "IntelliJ IDEA",
+	"name": "Brainstorm",
 	"type": "dark",
 	"colors": {
 		"editorIndentGuide.activeBackground1": "#a1a1aa",
@@ -272,7 +272,8 @@
 				"variable.language.relations.prisma",
 				"variable.prop.css",
 				"support.type.python",
-				"constant.character.escape.c"
+				"constant.character.escape.c",
+				"support.type.primitive"
 			],
 			"settings": {
 				"foreground": "#f580d7"

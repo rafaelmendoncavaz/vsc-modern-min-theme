@@ -1,12 +1,8 @@
-# rmv-min-theme README
+# Brainstorm README
 
-## A VSCode Theme inspired by JetBrain's IDE Intellij IDEA
+## A VSCode Theme drawing inspiration of JetBrains IDE for Java/Kotlin: Intellij IDEA
 
-CurrentVer: _1.0.7_
-
-## Disclaimer
-
-**I am not affiliated with JetBrains or any of it's products. This extension is a mere inspiration of one of their products and all of the credit goes to them!**
+CurrentVer: _1.0.10_
 
 ## Description
 
@@ -27,8 +23,3 @@ Use it with font JetBrains Mono for better immersion
 ### Requests can be made at GitHub
 
 **Enjoy!**
-
-## Credits
-
-- [JetBrains](https://www.jetbrains.com/)
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
